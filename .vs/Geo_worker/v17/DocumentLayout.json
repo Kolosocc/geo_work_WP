@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|c:\\project_it\\csh\\2024(2)\\geo_worker2\\geo_worker\\data\\geocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|solutionrelative:geo_worker\\data\\geocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|c:\\project_it\\csh\\2024(2)\\geo_worker2\\geo_worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|solutionrelative:geo_worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|c:\\project_it\\csh\\2024(2)\\geo_worker2\\geo_worker\\geo_worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|solutionrelative:geo_worker\\geo_worker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|c:\\project_it\\csh\\2024(2)\\geo_worker2\\geo_worker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96AEA39D-0116-4613-950F-844B4D903B3C}|Geo_worker\\Geo_worker.csproj|solutionrelative:geo_worker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 139,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,37 +42,74 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GeoContext.cs",
+              "DocumentMoniker": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\Data\\GeoContext.cs",
+              "RelativeDocumentMoniker": "Geo_worker\\Data\\GeoContext.cs",
+              "ToolTip": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\Data\\GeoContext.cs",
+              "RelativeToolTip": "Geo_worker\\Data\\GeoContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA4wEcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:11:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Geo_worker",
+              "DocumentMoniker": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\Geo_worker.csproj",
+              "RelativeDocumentMoniker": "Geo_worker\\Geo_worker.csproj",
+              "ToolTip": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\Geo_worker.csproj",
+              "RelativeToolTip": "Geo_worker\\Geo_worker.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T17:10:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\appsettings.json",
+              "RelativeDocumentMoniker": "Geo_worker\\appsettings.json",
+              "ToolTip": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\appsettings.json",
+              "RelativeToolTip": "Geo_worker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T17:08:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\App.xaml",
               "RelativeDocumentMoniker": "Geo_worker\\App.xaml",
               "ToolTip": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\App.xaml",
               "RelativeToolTip": "Geo_worker\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T13:16:25.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T13:16:25.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Geo_worker\\MainWindow.xaml",
               "ToolTip": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\MainWindow.xaml",
               "RelativeToolTip": "Geo_worker\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-06T13:11:23.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T13:11:23.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Geo_worker\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Project_IT\\Csh\\2024(2)\\Geo_worker2\\Geo_worker\\MainWindow.xaml.cs",
               "RelativeToolTip": "Geo_worker\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T13:11:22.975Z",
               "EditorCaption": ""
