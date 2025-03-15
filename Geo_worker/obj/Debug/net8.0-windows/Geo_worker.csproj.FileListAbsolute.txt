@@ -38,3 +38,25 @@ C:\Project_IT\Csh\2024(2)\Geo_worker — копия\Geo_worker\obj\Debug\net8.0-
 C:\Project_IT\Csh\2024(2)\Geo_worker — копия\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.pdb
 C:\Project_IT\Csh\2024(2)\Geo_worker — копия\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.genruntimeconfig.cache
 C:\Project_IT\Csh\2024(2)\Geo_worker — копия\Geo_worker\obj\Debug\net8.0-windows\ref\Geo_worker.dll
+C:\Project_IT\Csh\2024(2)\Geo_worker — копия\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.sourcelink.json
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\bin\Debug\net8.0-windows\Geo_worker.exe
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\bin\Debug\net8.0-windows\Geo_worker.deps.json
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\bin\Debug\net8.0-windows\Geo_worker.runtimeconfig.json
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\bin\Debug\net8.0-windows\Geo_worker.dll
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\bin\Debug\net8.0-windows\Geo_worker.pdb
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\App.g.cs
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker_MarkupCompile.cache
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker_MarkupCompile.lref
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.g.resources
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.AssemblyInfoInputs.cache
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.AssemblyInfo.cs
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.csproj.CoreCompileInputs.cache
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.sourcelink.json
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.dll
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\refint\Geo_worker.dll
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.pdb
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\Geo_worker.genruntimeconfig.cache
+C:\Project_IT\Csh\2024(2)\Geo_worker2\Geo_worker\obj\Debug\net8.0-windows\ref\Geo_worker.dll
